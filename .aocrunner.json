@@ -5,13 +5,13 @@
   "days": [
     {
       "part1": {
-        "solved": false,
+        "solved": true,
         "result": "55607",
         "attempts": [],
         "time": 1.992883
       },
       "part2": {
-        "solved": false,
+        "solved": true,
         "result": "55291",
         "attempts": [],
         "time": 21.974968
@@ -19,30 +19,30 @@
     },
     {
       "part1": {
-        "solved": false,
+        "solved": true,
         "result": "2149",
         "attempts": [],
-        "time": 2.880698
+        "time": 1.53689
       },
       "part2": {
-        "solved": false,
+        "solved": true,
         "result": "71274",
         "attempts": [],
-        "time": 1.340886
+        "time": 1.67854
       }
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "539433",
         "attempts": [],
-        "time": null
+        "time": 6.634206
       },
       "part2": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "75847567",
         "attempts": [],
-        "time": null
+        "time": 3.928848
       }
     },
     {
